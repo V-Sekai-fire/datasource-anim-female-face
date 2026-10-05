@@ -15,7 +15,7 @@
 	url = https://github.com/V-Sekai/math_util.git
 [submodule "addons/vsk_map"]
 	path = addons/vsk_map
-	url = git@github.com:V-Sekai/vsk_map.git
+	url = https://github.com/V-Sekai/vsk_map.git
 [submodule "addons/entity_manager"]
 	path = addons/entity_manager
 	url = https://github.com/V-Sekai/entity_manager.git
